@@ -1,3 +1,4 @@
+// check whether a character is an alphabet or vowel
 #include<stdio.h>
 void isalphabet(l)
 {
